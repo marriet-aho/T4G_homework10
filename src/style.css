@@ -35,22 +35,22 @@ h1 {
 
 
 .after-line-1 {
-  background-color: lightgray;
+  background-color: aqua;
   color: black;
 }
 
 .after-line-2 {
-  background-color: yellow;
+  background-color: #90D5FF;
   color: black;
 }
 
 .after-line-3 {
-  background-color: green;
+  background-color: #00FF00;
   color: white;
 }
 
 .after-line-4 {
-  background-color: purple;
+  background-color: #EE82EE;
   color: white;
 }
 
