@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+#content {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+
+.line {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: 60%;
+}
+
+.line:hover {
+  background-color: darkred;
+}
+
+
+.after-line-1 {
+  background-color: lightgray;
+  color: black;
+}
+
+.after-line-2 {
+  background-color: yellow;
+  color: black;
+}
+
+.after-line-3 {
+  background-color: green;
+  color: white;
+}
+
+.after-line-4 {
+  background-color: purple;
+  color: white;
+}
+
+.after-line-5 {
+  background-color: black;
+  color: white;
+}
+
+
+#imageContainer {
+  margin-top: 20px;
+}
+
+#dynamicImage {
+  width: 400px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ddd;
+}
